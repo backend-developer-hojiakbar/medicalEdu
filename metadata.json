@@ -1,0 +1,9 @@
+{
+  "name": "MedEdu Online",
+  "description": "Tibbiyot xodimlari uchun masofaviy malaka oshirish platformasi. Kurslar, testlar va sertifikatlar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
